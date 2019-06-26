@@ -1,0 +1,1 @@
+Put only the 3DS file extensions. It contains the model, but not the textures.

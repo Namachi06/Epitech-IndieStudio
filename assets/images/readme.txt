@@ -1,0 +1,1 @@
+Put here images for the main menu and the pause menu.

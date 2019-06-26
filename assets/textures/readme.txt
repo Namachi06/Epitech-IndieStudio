@@ -1,0 +1,1 @@
+Put the .bmp, .jpg or png files to apply the images to the models
